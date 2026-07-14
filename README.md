@@ -1,4 +1,4 @@
-Sample Middleware project for the React Next 2017 talk by [Boris Dinkevich](https://twitter.com/BorisDinkevich)
+Sample Middleware project for the React Next 2017 talk by [ufongwong-devwizard]
 
 # Starting
 
